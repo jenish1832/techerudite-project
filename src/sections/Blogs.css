@@ -1,0 +1,16 @@
+.blogs-section {
+  padding: 100px 20px;
+  background: #f5faff;
+  text-align: center;
+}
+
+.blogs-header h2 {
+  font-size: 2.5rem;
+  color: #222;
+}
+
+.blogs-header p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 50px;
+}
